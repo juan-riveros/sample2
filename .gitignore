@@ -1,0 +1,17 @@
+*
+__pycache__
+.env
+!stand_up.sh
+!.gitignore
+!README.md
+!LICENSE.txt
+!pyproject.toml
+!tests/
+!tests/**/*
+!templates/
+!templates/*.template
+!pemex/
+!pemex/actor/
+!pemex/s3/
+!pemex/stream/
+!pemex/**/*.py
